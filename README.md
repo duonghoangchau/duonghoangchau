@@ -1,7 +1,4 @@
 #I'm Duong Hoang Chau
-### A passionate Java Developer from Vietnam.
-
-![Profile Views](https://komarev.com/ghpvc/?username=duonghoangchau&color=brightgreen)
 
 ## 🚀 Skills & Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
